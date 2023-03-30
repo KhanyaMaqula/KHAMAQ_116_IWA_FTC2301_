@@ -30,4 +30,4 @@ if (year === 2050) {
 
 console.log('Your status is:', status);
 console.log('The year is:', year);
-console.log('The total holidays is:', count);
+console.log('The total holidays is:',50 count);
