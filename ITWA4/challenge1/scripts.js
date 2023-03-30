@@ -1,6 +1,6 @@
 const year = 2050;
 const status = 'student';
-let count = 0;
+let count = 1;
 
 if (year === 2050) {
   console.log('January', 'New Year’s Day');
@@ -17,7 +17,7 @@ if (year === 2050) {
   console.log('August', 'Women’s Day');
   console.log('September', 'Heritage Day');
   console.log('December', 'Day of Reconciliation');
-  count += 3;
+  count += 3,5;
 
   if (status === 'parent') {
     console.log('December', 'Christmas Day');
